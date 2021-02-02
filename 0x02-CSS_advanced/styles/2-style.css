@@ -1,0 +1,20 @@
+html {
+	/* set the scroll behavior with a timing */
+	scroll-behavior: smooth;
+}
+body {
+    color: #161616;
+}
+/* anchor elements */
+a {
+    color: #161616;
+}
+.visually-hidden {
+    display: none;
+}
+.card-category {
+    color: #D73953;
+}
+.section-tagline {
+    color: #D73953;
+}
