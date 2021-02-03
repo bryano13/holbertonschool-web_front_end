@@ -47,28 +47,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* anchor elements */
 a:link {
-	/* set the color text */
-	color: var(--text-color);
-	/* set the decoration in anchor element (without underscore under text) */
-	text-decoration: none;
+    color: var(--text-color);
+    text-decoration: none;
 }
-
-/* anchor elements that have clicked or visited before */
 a:visited {
-	/* set the text style */
-	font-style: italic;
+    font-style: italic;
 }
-
-/* anchor elements that the mouse is over */
 a:hover {
-	/* set the decortation (with a underscore under text) */
-	text-decoration: underline;
+    text-decoration: underline;
 }
-
-/* anchor elements that was clicked when the mouse button has been depressed and before the click is over.*/
 a:active {
-	/* set the background color */
-	background-color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
 }
 /* all elements with class visually-hidden */
 .visually-hidden {
