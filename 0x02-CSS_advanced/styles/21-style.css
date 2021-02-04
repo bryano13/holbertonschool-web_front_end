@@ -171,19 +171,12 @@ ul.row {
 	/* set width according to its parent */
 	width: 33.33%;
 	/* set float content */
-	float: left;
-	/* set the padding in all sides, inside element */
-	padding: 0.5rem;
 }
 
 /* all elements with class col-1-2 */
 .col-1-2 {
 	/* set width according to its parent */
 	width: 50%;
-	/* set float content */
-	float: left;
-	/* set the padding in all sides, inside element */
-	padding: 0.5rem;
 }
 
 /* all elements with class footer-copyright */
