@@ -1,8 +1,8 @@
-/* Nested child */
+/* Nested class */
 body {
 	color: #3D3D3D;
 
-	> .red {
+	.red {
 		color: #FF0000;
 	}
 }
